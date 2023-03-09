@@ -73,5 +73,3 @@ best regards.
     <img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuoboo&theme=tokyonight&utcOffset=8" />
 </p>
 
-![github-user-contribution](https://user-images.githubusercontent.com/99112255/224048052-b1428e11-db4e-4f05-8771-7156c8be79d3.svg)
-
