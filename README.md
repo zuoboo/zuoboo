@@ -1,6 +1,10 @@
-## zuoboo profile 👋
+## Hi, I'm zuoboo 👋
 
-<h3 align="left">Languages and Tools:</h3>
+I am currently working as a web application Developer.
+
+best regards.
+
+### Languages and Tools
 <p align="left">
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
