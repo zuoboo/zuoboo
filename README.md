@@ -7,8 +7,8 @@
     <img height="100px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuoboo&theme=tokyonight" />
 </p>
 <p align="left"> 
-  <img height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuoboo&theme=tokyonight" />
-  <img height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuoboo&theme=tokyonight&count_private=true" />
-    <img height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuoboo&theme=tokyonight&utcOffset=8" />
+  <img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuoboo&theme=tokyonight" />
+  <img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuoboo&theme=tokyonight&count_private=true" />
+    <img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuoboo&theme=tokyonight&utcOffset=8" />
 </p>
 
