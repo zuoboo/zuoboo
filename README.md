@@ -4,6 +4,8 @@ I am currently working as a web application Developer.
 
 best regards.
 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/zuoboo/zuoboo/master/img/snake.svg) 
+
 ### Languages and Tools
 <p align="left">
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
