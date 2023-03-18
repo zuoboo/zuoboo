@@ -1,11 +1,8 @@
 ## Hi, I'm zuoboo 👋
 
-I am currently working as a web application Developer.
-
-best regards.
-
-![github-contribution-grid-snake](https://raw.githubusercontent.com/zuoboo/zuoboo/master/img/snake.svg) 
-
+I am currently working as a web application Developer.</br>
+best regards.</br>
+![snake gif](https://github.com/zuoboo/zuoboo/blob/output/github-contribution-grid-snake.gif)
 ### Languages and Tools
 <p align="left">
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -59,8 +56,6 @@ best regards.
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
-
-
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zuoboo&theme=onedark)](https://github.com/zuoboo/github-profile-trophy)
