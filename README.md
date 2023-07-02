@@ -1,6 +1,6 @@
 ## Hi, I'm zuoboo 👋
 
-I am currently working as a web application Developer.</br>
+I am currently working as a Web Application Developer.</br>
 best regards.</br>
 ![snake gif](https://github.com/zuoboo/zuoboo/blob/output/github-contribution-grid-snake.gif)
 ### Languages and Tools
