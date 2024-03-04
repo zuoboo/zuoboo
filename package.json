@@ -11,6 +11,11 @@
     "prepare": "husky install",
     "lint": "textlint . && markdownlint **/*.md"
   },
+  "lint-staged": {
+    "*.md": [
+      "npm run lint"
+    ]
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
