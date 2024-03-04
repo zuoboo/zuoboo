@@ -8,13 +8,11 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky install",
+    "prepare": "husky",
     "lint": "textlint . && markdownlint **/*.md"
   },
   "lint-staged": {
-    "*.md": [
-      "npm run lint"
-    ]
+    "*.{md}": "npm run lint"
   },
   "keywords": [],
   "author": "",
