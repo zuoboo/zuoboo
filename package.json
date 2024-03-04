@@ -12,7 +12,7 @@
     "lint": "textlint . && markdownlint **/*.md"
   },
   "lint-staged": {
-    "*.{md}": "npm run lint"
+    "*.md": "npm run lint"
   },
   "keywords": [],
   "author": "",
